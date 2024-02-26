@@ -1,3 +1,3 @@
 $(function(){
-    alert('jqueryのバージョンは' + jQuery.fn.jquery)
+    alert('現在使用中のjqueryのバージョンは' + jQuery.fn.jquery)
 })
